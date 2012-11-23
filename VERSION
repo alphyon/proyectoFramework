@@ -1,0 +1,72 @@
+version 0.1
+definicion de mapeo de bases de datos funcional unicamente con MySQL
+solo lectura de tablas y campos de cada tabla.
+
+version 0.1.5
+mapeo completo de base de datos
+clases modelos
+clases controladoras
+creacion dinamica de formularios
+CRUD de cada tabla
+
+version 0.2
+
+helpers de formularios
+controladores de funciones basicas de formulario
+integracion de Twitter Bootstrap
+integracion base de jquery
+
+version 0.2.5
+validacion de controles de formulario
+agregdo control de fecha y lista dinamica de datos.
+integracion de plantilla base 
+uso de especificacion de template HTML5 de Boilerplate.
+
+version 0.2.6
+revision de mapeo e integracion de nuevas funciones de extraccion de los datos
+
+version 0.3
+revision de funciones de mapeo y depuracion de errores de formularios.
+
+version 1.0 beta 
+primera version funcional para pruebas y desarrollo.
+
+version 1.1b
+revision de rutas de acceso y manejo completo de formularios.
+
+version 1.2b
+cambio de rutas de archivos de base
+todas las funciones convertidas a clases
+
+version 1.3b
+creacion automatica de control segun tipo de datos.
+realizada parcialmente la relaciones entre tablas.
+
+version 1.4b(13/11/2012)
+Consultas con elementos relacionados creadas
+depuracion de errores.
+estructura de framework
+..
+base
+    |
+    |--controladores.php
+    |--modelos.php
+    |--vistas.php
+css
+    |--smoothness(tema de jquery UI)
+    |--bootstrap.css
+js
+    |--ui
+    |--jquery-1.6.4.min.js
+    |--jquery-ui-1.8.16.custom.min.js
+    |--jquery.validate.min.js
+Coneccion.php
+config.php
+controles.php
+encabezado.php
+index.php
+pie.php
+
+
+
+
